@@ -1,6 +1,18 @@
 ### Hi there 👋
-Welcome to my github, which will contain a range of my personal data science projects.
 I am a data scientist with an engineering background. 
+
+Welcome to my github, which will contain a selection of my personal data science projects.
+
+# Contents
+
+## Image Analysis
+* [blank-image-deleter](https://github.com/pierswalker71/blank-image-deleter)
+
+## Time-Series Forecasting 
+* wip
+
+## Audio Analysis 
+* tbc
 
 <!--
 **pierswalker71/pierswalker71** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
