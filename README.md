@@ -1,5 +1,5 @@
 ### Hi there 👋
-I am a Data Scientist with a background in operational research, engineering and systems-engineering. 
+I am a Data Scientist with a background in operational research, electronic engineering and systems-engineering. 
 
 Welcome to my github, which will contain a selection of my personal data science projects using Python.
 My favourite libraries include:
