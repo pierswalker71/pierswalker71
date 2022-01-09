@@ -35,6 +35,11 @@ Repository | Details | Applications
 --- | --- | ---
 Tbc | |
 
+## Web Search
+Repository | Details | Applications
+--- | --- | ---
+Tbc | |
+
 ## Visualisation 
 Repository | Details | Applications
 --- | --- | ---
