@@ -1,8 +1,8 @@
 ### Hi there 👋
-I am a data scientist with an engineering and systems-engineering background. 
+I am a Data Scientist with a background in operational research, engineering and systems-engineering. 
 
-Welcome to my github, which will contain a selection of my personal data science projects.
-I work mainly with Python and Jupyter notebooks.
+Welcome to my github, which will contain a selection of my personal data science projects using Python.
+I love Pandas for data manipulationand analysis and sklearn for machine learning. .
 
 Thanks for looking.
 
