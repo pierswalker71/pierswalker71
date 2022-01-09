@@ -1,4 +1,6 @@
 ### Hi there 👋
+Welcome to my github, which will contain a range of my personal data science projects.
+I am a data scientist with an engineering background. 
 
 <!--
 **pierswalker71/pierswalker71** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
