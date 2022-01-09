@@ -2,7 +2,13 @@
 I am a Data Scientist with a background in operational research, engineering and systems-engineering. 
 
 Welcome to my github, which will contain a selection of my personal data science projects using Python.
-I love Pandas for data manipulationand analysis and sklearn for machine learning. .
+My favourite libraries include:
+- Pandas for data manipulation and analysis
+- Matplotlib for visualizations
+- Sklearn and XGboost for machine learning
+- Scipy for optimisation 
+- Pulp for linear programming 
+- Simpy for simulations
 
 Thanks for looking.
 
