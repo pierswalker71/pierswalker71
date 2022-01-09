@@ -35,7 +35,7 @@ Repository | Details | Applications
 --- | --- | ---
 Tbc | |
 
-## Web Search
+## Web Searching
 Repository | Details | Applications
 --- | --- | ---
 Tbc | |
