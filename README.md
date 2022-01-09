@@ -1,18 +1,28 @@
 ### Hi there 👋
-I am a data scientist with an engineering background. 
+I am a data scientist with an engineering and systems-engineering background. 
 
 Welcome to my github, which will contain a selection of my personal data science projects.
+I work mainly with Python and Jupyter notebooks.
+
+Thanks for looking.
 
 # Contents
 
 ## Image Analysis
-* [blank-image-deleter](https://github.com/pierswalker71/blank-image-deleter)
+
+Repository | Details | Applications
+--- | --- | ---
+[blank-image-deleter](https://github.com/pierswalker71/blank-image-deleter) | Searches a folder containing images of scanned photos, finds any which are blank and deletes them. | Identification and deletion of white jpg images.
 
 ## Time-Series Forecasting 
-* wip
+Repository | Details | Applications
+--- | --- | ---
+Tbc | |
 
 ## Audio Analysis 
-* tbc
+Repository | Details | Applications
+--- | --- | ---
+Tbc | |
 
 <!--
 **pierswalker71/pierswalker71** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
