@@ -47,8 +47,8 @@ Tbc | |
 
 ## Maths 
 Repository | Details | Applications
---- | Happy Pi day! Very simple program to extimate Pi by throwing darts at a dartboard  | ---
-Tbc | |
+--- | ---  | ---
+Tbc | Happy Pi day! Very simple program to extimate Pi by throwing darts at a dartboard. |
 
 <!--
 **pierswalker71/pierswalker71** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
