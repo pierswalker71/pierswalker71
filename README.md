@@ -22,7 +22,7 @@ Repository | Details | Applications
 ## Image Analysis
 Repository | Details | Applications
 --- | --- | ---
-[blank-image-deleter](https://github.com/pierswalker71/blank-image-deleter) | Tool to search a folder containing images of scanned photos, finds any which are blank and deletes them. | Identification and deletion of white jpg images.
+[blank-image-deleter](https://github.com/pierswalker71/blank-image-deleter) | Tool to search a folder containing images of scanned photos, finds any which are blank and deletes them (following human review). | Identification and deletion of white jpg images.
 
 ## Time-Series Forecasting 
 Repository | Details | Applications
