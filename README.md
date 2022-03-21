@@ -17,7 +17,7 @@ Thanks for looking.
 ## Simulation
 Repository | Details | Applications
 --- | --- | ---
-[Simulation_Optimisation](https://github.com/pierswalker71/Simulation_Optimisation)  |This programme has been created to demonstrate the use of Machine Learning to optimise the output of a simulator. | Optimising business process simulations
+[Simulation_Optimisation](https://github.com/pierswalker71/Simulation_Optimisation)  |This programme has been created to demonstrate the use of Machine Learning to optimise the output of a simulator. <br>Techniques employed:<br>1. Generation of complex multi-dimensional function.<br>2. Machine Learning regression using Sklearn; including train-test-split.<br>3. Use of ML Pipelines; including data-scaling and polynomial transformations. <br>4. Hyper-parameter optimisation using deterministic or stochastic grid-search. <br>5. Global optimisation using Scipy. <br>6. Data manipulation using Pandas and Numpy. | Optimising business process simulations
 
 ## Image Analysis
 Repository | Details | Applications
