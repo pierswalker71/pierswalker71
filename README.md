@@ -17,7 +17,7 @@ Thanks for looking.
 ## Image Analysis
 Repository | Details | Applications
 --- | --- | ---
-[blank-image-deleter](https://github.com/pierswalker71/blank-image-deleter) | Tool to searche a folder containing images of scanned photos, finds any which are blank and deletes them. | Identification and deletion of white jpg images.
+[blank-image-deleter](https://github.com/pierswalker71/blank-image-deleter) | Tool to search a folder containing images of scanned photos, finds any which are blank and deletes them. | Identification and deletion of white jpg images.
 | |
 
 ## Simulation
@@ -45,6 +45,10 @@ Repository | Details | Applications
 --- | --- | ---
 Tbc | |
 
+## Maths 
+Repository | Details | Applications
+--- | Happy Pi day! Very simple program to extimate Pi by throwing darts at a dartboard  | ---
+Tbc | |
 
 <!--
 **pierswalker71/pierswalker71** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
