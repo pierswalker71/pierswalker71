@@ -22,7 +22,7 @@ Repository | Details | Applications
 ## Misc
 Repository | Details | Applications
 --- | ---  | ---
-[Streamlit Example](https://share.streamlit.io/pierswalker71/streamlit_test/main)  |This is a simple Streamlit App example. It demonstrates the application of hosting an App on Streamlit interfacing with my code hosted on Github. |
+[Streamlit Example](https://share.streamlit.io/pierswalker71/streamlit_example/main)  |This is a simple Streamlit App example. It demonstrates the application of hosting an App on Streamlit interfacing with my code hosted on Github. | Demonstration of data science applications through as simple clean interface  
 
 
 ## Image Analysis
