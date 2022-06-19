@@ -34,7 +34,7 @@ Repository | Details | Applications
 Repository | Details | Applications
 --- | ---  | ---
 [Calculate Pi](https://share.streamlit.io/pierswalker71/calc_pi_dartboard/main)| Happy Pi day! Very simple program to estimate Pi by throwing darts at a dartboard. |
-[Calculate Pi](https://share.streamlit.io/pierswalker71/calc_pi_dartboard/main)| Happy Pi day! Very simple program to estimate Pi by throwing darts at a dartboard. |
+[Sierpinski-triangle]([https://share.streamlit.io/pierswalker71/calc_pi_dartboard/main](https://share.streamlit.io/pierswalker71/sierpinski-triangle/main))| Generate a fractal image. |
 
 <!--
 **pierswalker71/pierswalker71** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
