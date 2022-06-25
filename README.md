@@ -19,12 +19,6 @@ Repository | Details | Applications
 --- | --- | ---
 [Simulation_Optimisation](https://github.com/pierswalker71/Simulation_Optimisation)  |This programme has been created to demonstrate the use of Machine Learning to optimise the output of a simulator. <br>Techniques employed:<br>1. Generation of complex multi-dimensional function.<br>2. Machine Learning regression using Sklearn; including train-test-split.<br>3. Use of ML Pipelines; including data-scaling and polynomial transformations. <br>4. Hyper-parameter optimisation using deterministic or stochastic grid-search. <br>5. Global optimisation using Scipy. <br>6. Data manipulation using Pandas and Numpy. | Optimising business process simulations
 
-## Misc
-Repository | Details | Applications
---- | ---  | ---
-[Streamlit Example](https://share.streamlit.io/pierswalker71/streamlit_example/main)  |This is a simple Streamlit App example. It demonstrates the application of hosting an App on Streamlit interfacing with my code hosted on Github. | Demonstration of data science applications through as simple clean interface  
-
-
 ## Image Analysis
 Repository | Details | Applications
 --- | --- | ---
@@ -36,6 +30,11 @@ Repository | Details | Applications
 [Calculate Pi](https://share.streamlit.io/pierswalker71/calc_pi_dartboard/main)| Happy Pi day! Very simple program to estimate Pi by throwing darts at a dartboard. |
 [Sierpinski-triangle](https://share.streamlit.io/pierswalker71/sierpinski-triangle/main)| Generate a classic fractal image. |
 [Binary Prime Reversal Sequence](https://share.streamlit.io/pierswalker71/binary_prime_reversal/main)| Generate an interesting pattern from a sequence of prime numbers. |
+
+## Misc
+Repository | Details | Applications
+--- | ---  | ---
+[Streamlit Example](https://share.streamlit.io/pierswalker71/streamlit_example/main)  |This is a simple Streamlit App example. It demonstrates the application of hosting an App on Streamlit interfacing with my code hosted on Github. | Demonstration of data science applications through as simple clean interface  
 
 <!--
 **pierswalker71/pierswalker71** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
