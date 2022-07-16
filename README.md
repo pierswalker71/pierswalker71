@@ -9,6 +9,7 @@ My favourite libraries include:
 - Scipy for optimisation 
 - Pulp for linear programming 
 - Simpy for simulations
+- Spacy for natural language processing
 
 Thanks for looking.
 
