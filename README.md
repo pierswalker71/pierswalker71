@@ -18,7 +18,7 @@ Thanks for looking.
 ## Natural Language Processing
 Repository | Details | Applications
 --- | --- | ---
-[Sentiment Analysis: RestaurantReviews](https://to_be_updated) |  Uses binary classification to identify whether restaurant reviews are positive or negative. Range of ML models are employed. The user is able to submit their own review text for analysis. | Analysis of customer reviews.
+[Sentiment Analysis: RestaurantReviews UNDER CONSTRUCTION](https://to_be_updated) |  Uses binary classification to identify whether restaurant reviews are positive or negative. Range of ML models are employed. The user is able to submit their own review text for analysis. | Analysis of customer reviews.
 
 ## Simulation
 Repository | Details | Applications
