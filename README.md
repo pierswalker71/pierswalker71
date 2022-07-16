@@ -14,6 +14,11 @@ Thanks for looking.
 
 # Contents
 
+## Natural Language Processing
+Repository | Details | Applications
+--- | --- | ---
+[Sentiment Analysis: RestaurantReviews](https://to_be_updated) |  Using binary classification to identify whether a restaurant review is positive or negative. | Analysis of customer reviews.
+
 ## Simulation
 Repository | Details | Applications
 --- | --- | ---
