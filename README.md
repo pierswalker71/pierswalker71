@@ -18,7 +18,7 @@ Thanks for looking.
 ## Analysis
 Link | Details | Applications
 --- | --- | ---
-[Cymbal analysis](https://cymbalanalysis-uzfyekmvrxnjshc9ggy8t3.streamlit.app/) |  App which performs time and frequency analysis on an audio clip of a cymbal being stuck. | Analysis of customer reviews.
+[Cymbal analysis](https://cymbalanalysis-uzfyekmvrxnjshc9ggy8t3.streamlit.app/) |  App which performs time and frequency analysis on an audio clip of a cymbal being stuck. | Increased understanding of cymbal tonal structure.
 
 ## Natural Language Processing
 Link | Details | Applications
