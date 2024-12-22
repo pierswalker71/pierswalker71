@@ -1,5 +1,5 @@
 ### Hi there 👋
-I am a Data Scientist with a background in operational research, systems-engineering and electronic engineering. 
+I am a Data Scientist with a background in operational research. 
 
 Welcome to my github, which will contain a selection of my personal data science projects using Python.
 My favourite libraries include:
@@ -14,6 +14,11 @@ My favourite libraries include:
 Thanks for looking.
 
 # Contents
+
+## Analysis
+Repository | Details | Applications
+--- | --- | ---
+[Cymbal analysis](https://cymbalanalysis-uzfyekmvrxnjshc9ggy8t3.streamlit.app/) |  App which performs time and frequency analysis on an audio clip of a cymbal being stuck. | Analysis of customer reviews.
 
 ## Natural Language Processing
 Repository | Details | Applications
