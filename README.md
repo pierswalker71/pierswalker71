@@ -1,58 +1,66 @@
-### Hi there 👋
-I am a Data Scientist with a background in operational research. 
+# Piers Walker
 
-Welcome to my github, which will contain a selection of my personal data science projects using Python.
-My favourite libraries include:
-- Pandas for data manipulation and analysis
-- Matplotlib for visualizations
-- Sklearn and XGboost for machine learning
-- Scipy for optimisation 
-- Pulp for linear programming 
-- Simpy for simulations
-- Spacy for natural language processing
+**Systems Data Science | Applied AI | Systems Engineering | Operational Analytics**
 
-Thanks for looking.
+I design and apply analytical, AI-enabled and systems-based approaches to operational problems. My work sits at the intersection of systems engineering, operational analysis, applied data science, optimisation, simulation, and decision-support tooling.
 
-# Contents
+This GitHub profile highlights a selected body of public work and supporting material. It is intended as a professional overview of how I approach technical problem solving: with attention to requirements, workflow, usability, operational context, and measurable outcomes.
 
-## Analysis
-Link | Details | Applications
---- | --- | ---
-[Cymbal analysis](https://cymbalanalysis-uzfyekmvrxnjshc9ggy8t3.streamlit.app/) |  App which performs time and frequency analysis on an audio clip of a cymbal being stuck. | Increased understanding of cymbal tonal structure.
+---
 
-## Natural Language Processing
-Link | Details | Applications
---- | --- | ---
-[Sentiment Analysis: Restaurant Reviews](https://pierswalker71-sentiment-analysis-restauran-streamlit-app-w7afk3.streamlitapp.com/) |  Uses binary classification to identify whether restaurant reviews are positive or negative. Range of ML models are employed including Logistic Regression, Naive Bayes and a Keras neural network. The user is able to submit their own review text for analysis. | Analysis of customer reviews.
+## What is Systems Data Science
 
-## Simulation
-Link | Details | Applications
---- | --- | ---
-[Simulation_Optimisation](https://github.com/pierswalker71/Simulation_Optimisation)  |This programme has been created to demonstrate the use of Machine Learning to optimise the output of a simulator. <br>Techniques employed:<br>1. Generation of complex multi-dimensional function.<br>2. Machine Learning regression using Sklearn; including train-test-split.<br>3. Use of ML Pipelines; including data-scaling and polynomial transformations. <br>4. Hyper-parameter optimisation using deterministic or stochastic grid-search. <br>5. Global optimisation using Scipy. <br>6. Data manipulation using Pandas and Numpy. | Optimising business process simulations
+I use the term **Systems Data Science** to reflect the joining of systems engineering principles to applied data science to deliver usable, measurable, and operationally effective solutions. The focus spans requirements analysis, workflow understanding, modelling, optimisation, AI tooling, usability, deployment context, and operational performance evaluation.
 
-## Image Analysis
-Repository | Details | Applications
---- | --- | ---
-[blank-image-deleter](https://github.com/pierswalker71/blank-image-deleter) | Tool to search a folder containing images of scanned photos, finds any which are blank and deletes them (following human review). | Identification and deletion of white jpg images.
+In practice, this means treating analytics and AI not as isolated concepts, but as components within wider operational systems that must work for real users, under real constraints, in real delivery environments.
 
-## Maths 
-Link | Details | Applications
---- | ---  | ---
-[Calculate Pi](https://share.streamlit.io/pierswalker71/calc_pi_dartboard/main)| Happy Pi day! Very simple program to estimate Pi by throwing darts at a dartboard. |
-[Sierpinski-triangle](https://share.streamlit.io/pierswalker71/sierpinski-triangle/main)| Generate a classic fractal image. |
-[Binary Prime Reversal Sequence](https://share.streamlit.io/pierswalker71/binary_prime_reversal/main)| Generate an interesting pattern from a sequence of prime numbers. |
+---
 
-<!--
-**pierswalker71/pierswalker71** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Current Technical Focus
 
-Here are some ideas to get you started:
+- AI-enabled decision-support tools and workflow integration
+- Applied machine learning and analysis of unstructured data
+- Requirements-led analytical system design
+- Usability, human-centred workflows and stakeholder adoption
+- AI governance, testing, assurance and responsible and ethical deployment
+- Operational analytics, modelling, simulation and optimisation
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## Featured Work
+
+### Applied AI prototypes and workflow tools
+Practical AI systems developed or trialled within organisational workflows, with attention to transparency, testing, compliance and usability.
+
+### Exploratory analytical work
+Selected historical repositories showing technical development across optimisation, simulation, visualisation and machine learning.
+
+---
+
+## Professional Background
+
+My background spans more than two decades across government, consultancy and technical assurance environments. I have worked across modelling and simulation, optimisation, systems engineering, engineering scrutiny, operational analysis, technical risk, AI guidance, AI testing, data science leadership, and analytical decision support.
+
+That experience has shaped a practical view of technical work: the application of data science must be credible, operationally relevant, and usable within the systems and workflows they are meant to support.
+
+---
+
+## Presentations and Professional Contributions
+
+This portfolio also includes selected presentation material, conference content, technical notes, and public-facing summaries where appropriate. These provide additional evidence of analytical thinking, communication, and engagement with complex technical subjects.
+
+---
+
+## Historical and Exploratory Repositories
+
+Some repositories here are older exploratory projects developed during periods of learning, experimentation, and technical development. They are retained as part of an honest record of progression, particularly in simulation, optimisation, machine learning, and analytical prototyping.
+
+They should be read as foundational work rather than as a representation of my current technical practice.
+
+---
+
+## Portfolio
+
+This profile serves as a navigation point to my wider portfolio, selected repositories, presentation material, and public technical writing.
+
+- **GitHub Pages portfolio TBC:** [Add link]
