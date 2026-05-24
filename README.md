@@ -63,4 +63,4 @@ They should be read as foundational work rather than as a representation of my c
 
 This profile serves as a navigation point to my wider portfolio, selected repositories, presentation material, and public technical writing.
 
-- **GitHub Pages portfolio TBC:** [Add link]
+- **GitHub Pages portfolio TBC:** [https://pierswalker71.github.io/]
