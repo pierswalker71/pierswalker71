@@ -61,6 +61,6 @@ They should be read as foundational work rather than as a representation of my c
 
 ## Portfolio
 
-This profile serves as a navigation point to my wider portfolio, selected repositories, presentation material, and public technical writing.
+This profile serves as a navigation point to my wider portfolio, selected repositories, presentation material, and public technical writing which you can access here:
 
-- **GitHub Pages portfolio:** [https://pierswalker71.github.io/](https://pierswalker71.github.io/)
+👉 **GitHub Pages portfolio: [https://pierswalker71.github.io/](https://pierswalker71.github.io/)**
