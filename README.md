@@ -8,11 +8,23 @@ This GitHub profile highlights a selected body of public work and supporting mat
 
 ---
 
+## Portfolio
+
+This profile serves as a navigation point to my wider portfolio, selected repositories, presentation material, and public technical writing which you can access here:
+
+👉 **GitHub Pages portfolio: [https://pierswalker71.github.io/](https://pierswalker71.github.io/)**
+
+---
+
 ## What is Systems Data Science
 
-I use the term **Systems Data Science** to reflect the joining of systems engineering principles to applied data science to deliver usable, measurable, and operationally effective solutions. The focus spans requirements analysis, workflow understanding, modelling, optimisation, AI tooling, usability, deployment context, and operational performance evaluation.
+I use the term **Systems Data Science** to describe the combination of systems thinking, systems engineering and applied data science to develop useful, responsible and operationally effective solutions.
 
-In practice, this means treating analytics and AI not as isolated concepts, but as components within wider operational systems that must work for real users, under real constraints, in real delivery environments.
+The approach spans problem framing, requirements analysis, workflow understanding, modelling, optimisation, AI tooling, usability, governance, deployment context and evaluation of real-world performance and impact.
+
+In practice, this means treating analytics and AI not as isolated technical capabilities, but as components within wider systems of people, processes, information, technology and governance. The aim is to build solutions that work for real users, fit real workflows, operate under real constraints and deliver meaningful outcomes in practice.
+
+You can read more about my thoughts on this in my **[paper on Systems Data Science](https://pierswalker71.github.io/systems_data_science)**
 
 ---
 
@@ -57,10 +69,4 @@ Some repositories here are older exploratory projects developed during periods o
 
 They should be read as foundational work rather than as a representation of my current technical practice.
 
----
 
-## Portfolio
-
-This profile serves as a navigation point to my wider portfolio, selected repositories, presentation material, and public technical writing which you can access here:
-
-👉 **GitHub Pages portfolio: [https://pierswalker71.github.io/](https://pierswalker71.github.io/)**
