@@ -6,13 +6,31 @@ I design and apply analytical, AI-enabled and systems-based approaches to operat
 
 This GitHub profile presents public work and supporting material of my approach technical problem solving. The selection highlights requirements, workflow, usability, operational context and measurable outcomes
 
----
+## Professional Background
+
+My background spans more than two decades across government, consultancy and technical assurance environments. My work combines modelling and simulation, optimisation, operational analysis and analytical decision support with systems engineering, engineering scrutiny and technical risk. It also spans AI policy and guidance, AI testing and data science leadership.
+
+That experience has shaped a practical view of technical work: data science must be credible and operationally relevant. Its application must also be usable within the systems and workflows it is meant to support.
 
 ## Portfolio
 
 My wider portfolio brings together selected repositories, presentation material and public technical writing. Access it through the GitHub Pages portfolio link below.
 
 👉 **GitHub Pages portfolio: [https://pierswalker71.github.io/](https://pierswalker71.github.io/)**
+
+
+Note some repositories here within github are older exploratory projects developed during periods of learning or experimentation, but have been retained for transparency.
+
+---
+
+## Current Technical Focus
+
+- AI-enabled decision-support tools and workflow integration
+- Applied machine learning and analysis of unstructured data
+- Requirements-led analytical system design
+- Usability, human-centred workflows and stakeholder adoption
+- AI governance, testing, assurance and responsible and ethical deployment
+- Operational analytics, modelling, simulation and optimisation
 
 ---
 
@@ -28,45 +46,5 @@ You can read more about my thoughts on this in my **[paper on Systems Data Scien
 
 ---
 
-## Current Technical Focus
-
-- AI-enabled decision-support tools and workflow integration
-- Applied machine learning and analysis of unstructured data
-- Requirements-led analytical system design
-- Usability, human-centred workflows and stakeholder adoption
-- AI governance, testing, assurance and responsible and ethical deployment
-- Operational analytics, modelling, simulation and optimisation
-
----
-
-## Featured Work
-
-### Applied AI prototypes and workflow tools
-Practical AI systems developed or trialled within organisational workflows, with attention to transparency, testing, compliance and usability.
-
-### Exploratory analytical work
-Selected historical repositories showing technical development across optimisation, simulation, visualisation and machine learning.
-
----
-
-## Professional Background
-
-My background spans more than two decades across government, consultancy and technical assurance environments. My work combines modelling and simulation, optimisation, operational analysis and analytical decision support with systems engineering, engineering scrutiny and technical risk. It also spans AI policy and guidance, AI testing and data science leadership.
-
-That experience has shaped a practical view of technical work: data science must be credible and operationally relevant. Its application must also be usable within the systems and workflows it is meant to support.
-
----
-
-## Presentations and Professional Contributions
-
-This portfolio also includes selected presentation material, conference content, technical notes, and public-facing summaries where appropriate. These provide additional evidence of analytical thinking, communication, and engagement with complex technical subjects.
-
----
-
-## Historical and Exploratory Repositories
-
-Some repositories here are older exploratory projects developed during periods of learning, experimentation, and technical development. They are retained as part of an honest record of progression, particularly in simulation, optimisation, machine learning, and analytical prototyping.
-
-They should be read as foundational work rather than as a representation of my current technical practice.
 
 
