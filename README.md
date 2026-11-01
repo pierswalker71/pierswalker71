@@ -2,15 +2,15 @@
 
 **Systems Data Science | Applied AI | Systems Engineering | Operational Analytics**
 
-I design and apply analytical, AI-enabled and systems-based approaches to operational problems. My work sits at the intersection of systems engineering, operational analysis, applied data science, optimisation, simulation, and decision-support tooling.
+I design and apply analytical, AI-enabled and systems-based approaches to operational problems. I combine systems engineering, operational analysis, applied data science, optimisation, simulation, and decision-support tooling.
 
-This GitHub profile highlights a selected body of public work and supporting material. It is intended as a professional overview of how I approach technical problem solving: with attention to requirements, workflow, usability, operational context, and measurable outcomes.
+This GitHub profile presents public work and supporting material of my approach technical problem solving. The selection highlights requirements, workflow, usability, operational context and measurable outcomes
 
 ---
 
 ## Portfolio
 
-This profile serves as a navigation point to my wider portfolio, selected repositories, presentation material, and public technical writing which you can access here:
+My wider portfolio brings together selected repositories, presentation material and public technical writing. Access it through the GitHub Pages portfolio link below.
 
 👉 **GitHub Pages portfolio: [https://pierswalker71.github.io/](https://pierswalker71.github.io/)**
 
@@ -20,9 +20,9 @@ This profile serves as a navigation point to my wider portfolio, selected reposi
 
 I use the term **Systems Data Science** to describe the combination of systems thinking, systems engineering and applied data science to develop useful, responsible and operationally effective solutions.
 
-The approach spans problem framing, requirements analysis, workflow understanding, modelling, optimisation, AI tooling, usability, governance, deployment context and evaluation of real-world performance and impact.
+The approach starts with problem framing, requirements analysis and workflow understanding. It brings modelling, optimisation and AI tooling together with usability, governance and deployment context, then evaluates real-world performance and impact.
 
-In practice, this means treating analytics and AI not as isolated technical capabilities, but as components within wider systems of people, processes, information, technology and governance. The aim is to build solutions that work for real users, fit real workflows, operate under real constraints and deliver meaningful outcomes in practice.
+In practice, I treat analytics and AI as components within wider systems of people, processes, information, technology and governance, rather than as isolated technical capabilities. Success means solutions that work for users, fit their workflows, operate within constraints and deliver meaningful outcomes.
 
 You can read more about my thoughts on this in my **[paper on Systems Data Science](https://pierswalker71.github.io/systems_data_science)**
 
@@ -51,9 +51,9 @@ Selected historical repositories showing technical development across optimisati
 
 ## Professional Background
 
-My background spans more than two decades across government, consultancy and technical assurance environments. I have worked across modelling and simulation, optimisation, systems engineering, engineering scrutiny, operational analysis, technical risk, AI guidance, AI testing, data science leadership, and analytical decision support.
+My background spans more than two decades across government, consultancy and technical assurance environments. My work combines modelling and simulation, optimisation, operational analysis and analytical decision support with systems engineering, engineering scrutiny and technical risk. It also spans AI policy and guidance, AI testing and data science leadership.
 
-That experience has shaped a practical view of technical work: the application of data science must be credible, operationally relevant, and usable within the systems and workflows they are meant to support.
+That experience has shaped a practical view of technical work: data science must be credible and operationally relevant. Its application must also be usable within the systems and workflows it is meant to support.
 
 ---
 
