@@ -21,7 +21,6 @@ My wider portfolio brings together selected repositories, presentation material 
 
 Note some repositories here within github are older exploratory projects developed during periods of learning or experimentation, but have been retained for transparency.
 
----
 
 ## Current Technical Focus
 
@@ -31,8 +30,6 @@ Note some repositories here within github are older exploratory projects develop
 - Usability, human-centred workflows and stakeholder adoption
 - AI governance, testing, assurance and responsible and ethical deployment
 - Operational analytics, modelling, simulation and optimisation
-
----
 
 ## What is Systems Data Science
 
